@@ -15,19 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm 秦暗石
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
-        <img
-          align=center
-          src="https://img.shields.io/github/stars/qindarkstone?style=plastic&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
-          style="margin: 0 5px"
-        /><img
-          align=center
-          src="https://img.shields.io/github/followers/qindarkstone?style=plastic&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
-          style="margin: 0 5px"
-        />
   <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/github-by_qindarkstone-%231677ff?style=plastic"/></a>
-      </div>
-      
 
 - 📫 联系本人： **1304749747@qq.com/qindarkstone@gmail.com**
 
