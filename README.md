@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm 秦暗石
 
-
+ 
   <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/github-by_qindarkstone-%231677ff?style=plastic"/></a>
 ### 一个计算机/摄影/羽毛球/音乐爱好者
 
