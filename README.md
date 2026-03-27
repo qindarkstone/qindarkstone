@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=qindarkstone&show_icons=true&include_all_commits=true&theme=neon)](https://github-stats-extended.vercel.app/api?username=qindarkstone&show_icons=true&include_all_commits=true&theme=neon)
 
-<--
+<!--
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=qindarkstone&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
 -->
 <p>
